@@ -9,24 +9,26 @@ https://www.georgemagiafas.com/toshl-git
 
 
 Requirements
-======================
-* jQuery https://jquery.com
-* Papa Parse http://papaparse.com
+----------------------
+jQuery https://jquery.com  
+Papa Parse http://papaparse.com  
 
 
 Sample CSV Data
-======================
-A sample CSV file shall be found in *other/sample.csv*
-
-
+----------------------
+A sample CSV file shall be found in *other/sample.csv*  
+  
+  
+  
 About Toshl CSV Import
------------------------
+=======================
 Toshl CSV Import is a cool tool I have created, so that I could import my past 
 months' expenses kept in an old-school Excel worksheet, without having to 
 manually add it one by one!   
 
 More about Toshl CSV Import  
-https://www.georgemagiafas.com/toshl/
+https://www.georgemagiafas.com/toshl/  
+https://toshl.com/blog/apps-that-connect-with-toshl-csv-importer/  
 
 
 About Toshl
